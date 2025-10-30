@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "replant-marketplace",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "homepage": "https://samx2777.github.io/Replant-Marketplace",
   "scripts": {
